@@ -16,6 +16,11 @@
 
 <!-- 主要内容 -->
 <h1>我的第一个样式页面</h1>
+  <style type="text/css">
+  body {
+    color: purple;
+    background-color: #d8da3d }
+  </style>
 
 <p>欢迎来到我的样式页面!
 
